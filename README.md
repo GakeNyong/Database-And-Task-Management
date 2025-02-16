@@ -45,4 +45,4 @@ This workbook is designed to be user-friendly, flexible, and customizable to mee
 - Gain valuable insights into their productivity and performance
 - Make informed decisions about their time and resource allocation
 
-# Project File Link: [https://docs.google.com/spreadsheets/d/17HXQsH6QUhudhX_fQ3R_3tVQQNC-XfB79IA23-XJgTM/edit?usp=sharing]
+[View Project File](https://docs.google.com/spreadsheets/d/17HXQsH6QUhudhX_fQ3R_3tVQQNC-XfB79IA23-XJgTM/edit?usp=sharing)
